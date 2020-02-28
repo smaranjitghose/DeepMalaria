@@ -33,6 +33,7 @@ The disease is widespread in the tropical and subtropical regions that exist in 
 
 #### Risk Factor:
 Malaria is commonly associated with poverty and has a major negative effect on economic development. In Africa, it is estimated to result in losses of US$12 billion a year due to increased healthcare costs, lost ability to work, and negative effects on tourism.
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Malaria_world_map-Deaths_per_million_persons-WHO2012.svg/1200px-Malaria_world_map-Deaths_per_million_persons-WHO2012.svg.png" width="600" />
  
  Reference:
