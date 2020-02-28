@@ -39,3 +39,14 @@ Malaria is commonly associated with poverty and has a major negative effect on e
  Reference:
 1.  [WHO](https://www.who.int/news-room/fact-sheets/detail/malaria) 
 2. [Wikipedia](https://en.wikipedia.org/wiki/Malaria)
+
+## Dataset:
+Please download the dataset from here:
+
+[Malaria Cell Images Dataset](https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria)
+
+This has been obtained from the official [NIH Website](https://ceb.nlm.nih.gov/repositories/malaria-datasets/)
+
+The dataset contains (a total of 27,558 images)2 folders:
+- Infected
+- Uninfected
