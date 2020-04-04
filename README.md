@@ -1,6 +1,6 @@
 # DeepMalaria
 
-An attempt to predict malaria from microscopic examination of blood using blood films
+An deep learning attempt to predict malaria from microscopic examination of blood using blood films
 
 ## Background:
 Malaria is a life-threatening disease caused by parasites that are transmitted to people through the bites of infected female Anopheles mosquitoes. It is preventable and curable.
