@@ -1,4 +1,4 @@
-# DeepMalaria
+<h1 align = "center"> Deep Malaria</h1>
 
 An deep learning attempt to predict malaria from microscopic examination of blood using blood films
 
